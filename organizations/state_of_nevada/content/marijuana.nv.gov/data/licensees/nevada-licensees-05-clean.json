@@ -1,0 +1,1590 @@
+[
+  {
+    "DBA": "Nature's Chemistry",
+    "Loc City": "Las Vegas",
+    "ME Entity Name": "3AP Inc",
+    "type": "cultivator"
+  },
+  {
+    "DBA": "Kanna",
+    "Loc City": "Carson City",
+    "ME Entity Name": "5Seat Investments LLC",
+    "type": "cultivator"
+  },
+  {
+    "DBA": "Margo Jean's",
+    "Loc City": "Reno",
+    "ME Entity Name": "A New Leaf Cultivation Center LLC",
+    "type": "cultivator"
+  },
+  {
+    "DBA": "ACC Enterprises LLC",
+    "Loc City": "Pahrump",
+    "ME Entity Name": "ACC Enterprises LLC",
+    "type": "cultivator"
+  },
+  {
+    "DBA": "Alternative Medicine Association LC",
+    "Loc City": "Las Vegas",
+    "ME Entity Name": "Alternative Medicine Association LC",
+    "type": "cultivator"
+  },
+  {
+    "DBA": "Blossum Group LLC",
+    "Loc City": "Las Vegas",
+    "ME Entity Name": "Blossum Group LLC",
+    "type": "cultivator"
+  },
+  {
+    "DBA": "Cannavative Farms LLC",
+    "Loc City": "Reno",
+    "ME Entity Name": "Cannavative Farms, LLC",
+    "type": "cultivator"
+  },
+  {
+    "DBA": "CCLV Manufacturing Center LLC",
+    "Loc City": "Las Vegas",
+    "ME Entity Name": "CCLV Manufacturing Center LLC",
+    "type": "cultivator"
+  },
+  {
+    "DBA": "Circle S Farms LLC",
+    "Loc City": "North Las Vegas",
+    "ME Entity Name": "Circle S Farms LLC",
+    "type": "cultivator"
+  },
+  {
+    "DBA": "Nevada Medical Marijuana",
+    "Loc City": "Laughlin",
+    "ME Entity Name": "Clear River LLC",
+    "type": "cultivator"
+  },
+  {
+    "DBA": "Canopi",
+    "Loc City": "Las Vegas",
+    "ME Entity Name": "CWNevada, LLC",
+    "type": "cultivator"
+  },
+  {
+    "DBA": "Canopi",
+    "Loc City": "Pahrump",
+    "ME Entity Name": "CWNevada, LLC",
+    "type": "cultivator"
+  },
+  {
+    "DBA": "DH Aldebaran",
+    "Loc City": "Las Vegas",
+    "ME Entity Name": "D.H. Aldebaran, Inc.",
+    "type": "cultivator"
+  },
+  {
+    "DBA": "Deep Roots Harvest",
+    "Loc City": "Mesquite",
+    "ME Entity Name": "Deep Roots Medical, LLC",
+    "type": "cultivator"
+  },
+  {
+    "DBA": "ECONEVADA LLC",
+    "Loc City": "North Las Vegas",
+    "ME Entity Name": "Econevada LLC",
+    "type": "cultivator"
+  },
+  {
+    "DBA": "EMK HydroGarden",
+    "Loc City": "North Las Vegas",
+    "ME Entity Name": "EMK Hydrogarden",
+    "type": "cultivator"
+  },
+  {
+    "DBA": "SUMMA CANNABIS",
+    "Loc City": "Las Vegas",
+    "ME Entity Name": "Euphoria Wellness LLC",
+    "type": "cultivator"
+  },
+  {
+    "DBA": "Pisos",
+    "Loc City": "Las Vegas",
+    "ME Entity Name": "Fidelis Holdings LLC",
+    "type": "cultivator"
+  },
+  {
+    "DBA": "Pisos",
+    "Loc City": "North Las Vegas",
+    "ME Entity Name": "Fidelis Holdings LLC",
+    "type": "cultivator"
+  },
+  {
+    "DBA": "Franklin BioScience NV LLC",
+    "Loc City": "North Las Vegas",
+    "ME Entity Name": "Franklin BioScience NV LLC",
+    "type": "cultivator"
+  },
+  {
+    "DBA": "Green Harvest",
+    "Loc City": "North Las Vegas",
+    "ME Entity Name": "FSWFL LLC",
+    "type": "cultivator"
+  },
+  {
+    "DBA": "GB Sciences",
+    "Loc City": "Las Vegas",
+    "ME Entity Name": "GB Sciences Nevada LLC",
+    "type": "cultivator"
+  },
+  {
+    "DBA": "Top Notch Health Center",
+    "Loc City": "Las Vegas",
+    "ME Entity Name": "Global Harmony LLC",
+    "type": "cultivator"
+  },
+  {
+    "DBA": "Good Chemistry",
+    "Loc City": "Reno",
+    "ME Entity Name": "Good Chemistry Nevada LLC",
+    "type": "cultivator"
+  },
+  {
+    "DBA": "The Apothecarium",
+    "Loc City": "Las Vegas",
+    "ME Entity Name": "Gravitas Nevada LTD",
+    "type": "cultivator"
+  },
+  {
+    "DBA": "Green Leaf Farms Holdings LLC",
+    "Loc City": "North Las Vegas",
+    "ME Entity Name": "Green Leaf Farms Holdings LLC",
+    "type": "cultivator"
+  },
+  {
+    "DBA": "Green Life Productions LLC",
+    "Loc City": "Pahrump",
+    "ME Entity Name": "Green Life Productions",
+    "type": "cultivator"
+  },
+  {
+    "DBA": "Green Therapeutics LLC",
+    "Loc City": "North Las Vegas",
+    "ME Entity Name": "Green Therapeutics LLC",
+    "type": "cultivator"
+  },
+  {
+    "DBA": "Greenleaf Enterprises Inc",
+    "Loc City": "Sparks",
+    "ME Entity Name": "Greenleaf Enterprises, Inc.",
+    "type": "cultivator"
+  },
+  {
+    "DBA": "GreenMart of Nevada LLC",
+    "Loc City": "Las Vegas",
+    "ME Entity Name": "Greenmart of Nevada",
+    "type": "cultivator"
+  },
+  {
+    "DBA": "GreenMart of Nevada NLV LLC",
+    "Loc City": "North Las Vegas",
+    "ME Entity Name": "GreenMart of Nevada NLV LLC",
+    "type": "cultivator"
+  },
+  {
+    "DBA": "Greenway Medical",
+    "Loc City": "Las Vegas",
+    "ME Entity Name": "Greenway Medical",
+    "type": "cultivator"
+  },
+  {
+    "DBA": "GSM LV LLC",
+    "Loc City": "North Las Vegas",
+    "ME Entity Name": "GSM LV LLC",
+    "type": "cultivator"
+  },
+  {
+    "DBA": "GWGA LLC",
+    "Loc City": "Pahrump",
+    "ME Entity Name": "GWGA LLC",
+    "type": "cultivator"
+  },
+  {
+    "DBA": "Green Heaven Nursery",
+    "Loc City": "North Las Vegas",
+    "ME Entity Name": "Helping Hands Wellness Center Inc",
+    "type": "cultivator"
+  },
+  {
+    "DBA": "Herbal Care LLC",
+    "Loc City": "Reno",
+    "ME Entity Name": "Herbal Care LLC",
+    "type": "cultivator"
+  },
+  {
+    "DBA": "High Sierra Holistics",
+    "Loc City": "Reno",
+    "ME Entity Name": "High Sierra Holistics, LLC",
+    "type": "cultivator"
+  },
+  {
+    "DBA": "Desert Grown Farms",
+    "Loc City": "Las Vegas",
+    "ME Entity Name": "Integral Associates LLC",
+    "type": "cultivator"
+  },
+  {
+    "DBA": "Panacea Cannabis",
+    "Loc City": "Las Vegas",
+    "ME Entity Name": "Just Quality LLC",
+    "type": "cultivator"
+  },
+  {
+    "DBA": "House of Herbs",
+    "Loc City": "Las Vegas",
+    "ME Entity Name": "Las Vegas Natural Caregivers LLC",
+    "type": "cultivator"
+  },
+  {
+    "DBA": "Pegasus Nevada",
+    "Loc City": "Las Vegas",
+    "ME Entity Name": "Las Vegas Wellness and Compassion, LLC",
+    "type": "cultivator"
+  },
+  {
+    "DBA": "Libra Wellness",
+    "Loc City": "North Las Vegas",
+    "ME Entity Name": "Libra Wellness Center LLC",
+    "type": "cultivator"
+  },
+  {
+    "DBA": "Siena Cannabis",
+    "Loc City": "North Las Vegas",
+    "ME Entity Name": "Lone Mountain Partners, LLC",
+    "type": "cultivator"
+  },
+  {
+    "DBA": "LVIG Holdings",
+    "Loc City": "North Las Vegas",
+    "ME Entity Name": "LVIG Holdings",
+    "type": "cultivator"
+  },
+  {
+    "DBA": "Matrix NV LLC",
+    "Loc City": "North Las Vegas",
+    "ME Entity Name": "Matrix NV, LLC",
+    "type": "cultivator"
+  },
+  {
+    "DBA": "MBNV Investments LLC",
+    "Loc City": "North Las Vegas",
+    "ME Entity Name": "MBNV Investments LLC",
+    "type": "cultivator"
+  },
+  {
+    "DBA": "MMG Agriculture",
+    "Loc City": "Reno",
+    "ME Entity Name": "Medical Marijuana Group Inc",
+    "type": "cultivator"
+  },
+  {
+    "DBA": "MM Development Company LLC",
+    "Loc City": "Beatty",
+    "ME Entity Name": "MM Development Company LLC",
+    "type": "cultivator"
+  },
+  {
+    "DBA": "MM Development Company LLC",
+    "Loc City": "Las Vegas",
+    "ME Entity Name": "MM Development Company LLC",
+    "type": "cultivator"
+  },
+  {
+    "DBA": "NCMM LLC",
+    "Loc City": "Pahrump",
+    "ME Entity Name": "NCMM, LLC",
+    "type": "cultivator"
+  },
+  {
+    "DBA": "Nevada Botanical Science Inc",
+    "Loc City": "Reno",
+    "ME Entity Name": "Nevada Botanical Science, Inc",
+    "type": "cultivator"
+  },
+  {
+    "DBA": "Nevada Group Wellness LLC",
+    "Loc City": "North Las Vegas",
+    "ME Entity Name": "Nevada Group Wellness LLC",
+    "type": "cultivator"
+  },
+  {
+    "DBA": "BAM - Body and Mind",
+    "Loc City": "Las Vegas",
+    "ME Entity Name": "Nevada Medical Group LLC",
+    "type": "cultivator"
+  },
+  {
+    "DBA": "Nevada Organic Remedies LLC",
+    "Loc City": "Las Vegas",
+    "ME Entity Name": "Nevada Organic Remedies LLC",
+    "type": "cultivator"
+  },
+  {
+    "DBA": "Shango Las Vegas",
+    "Loc City": "Las Vegas",
+    "ME Entity Name": "Nevada Pure LLC",
+    "type": "cultivator"
+  },
+  {
+    "DBA": "Grassroots",
+    "Loc City": "Sparks",
+    "ME Entity Name": "NevWa LLC",
+    "type": "cultivator"
+  },
+  {
+    "DBA": "D X N",
+    "Loc City": "Las Vegas",
+    "ME Entity Name": "New Point Industries Inc",
+    "type": "cultivator"
+  },
+  {
+    "DBA": "NLVO",
+    "Loc City": "North Las Vegas",
+    "ME Entity Name": "NLV Organics Inc",
+    "type": "cultivator"
+  },
+  {
+    "DBA": "Desert Blum Cultivation Center",
+    "Loc City": "North Las Vegas",
+    "ME Entity Name": "NLVG LLC",
+    "type": "cultivator"
+  },
+  {
+    "DBA": "Silver State Trading",
+    "Loc City": "Sparks",
+    "ME Entity Name": "NNV Operations I, Inc.",
+    "type": "cultivator"
+  },
+  {
+    "DBA": "Evergreen Organix",
+    "Loc City": "Las Vegas",
+    "ME Entity Name": "NV 3480 Partners LLC",
+    "type": "cultivator"
+  },
+  {
+    "DBA": "Nye Farm Tech LTD",
+    "Loc City": "Pahrump",
+    "ME Entity Name": "Nye Farm Tech LTD",
+    "type": "cultivator"
+  },
+  {
+    "DBA": "Nye Natural Medicinal Solutions LLC",
+    "Loc City": "Pahrump",
+    "ME Entity Name": "Nye Natural Medicinal Solutions LLC",
+    "type": "cultivator"
+  },
+  {
+    "DBA": "PhenoFarm NV LLC",
+    "Loc City": "North Las Vegas",
+    "ME Entity Name": "PhenofarmNV LLC",
+    "type": "cultivator"
+  },
+  {
+    "DBA": "Physis One LLC",
+    "Loc City": "North Las Vegas",
+    "ME Entity Name": "Physis One LLC",
+    "type": "cultivator"
+  },
+  {
+    "DBA": "POLARIS MMJ",
+    "Loc City": "Las Vegas",
+    "ME Entity Name": "Polaris Wellness Center LLC",
+    "type": "cultivator"
+  },
+  {
+    "DBA": "QualCan LLC",
+    "Loc City": "Las Vegas",
+    "ME Entity Name": "Qualcan, LLC",
+    "type": "cultivator"
+  },
+  {
+    "DBA": "Redwood Warehouse LLC",
+    "Loc City": "Las Vegas",
+    "ME Entity Name": "Redwood Warehouse LLC",
+    "type": "cultivator"
+  },
+  {
+    "DBA": "Mother Herb",
+    "Loc City": "Las Vegas",
+    "ME Entity Name": "Rombough Real Estate Inc",
+    "type": "cultivator"
+  },
+  {
+    "DBA": "Serenity Wellness Growers LLC",
+    "Loc City": "North Las Vegas",
+    "ME Entity Name": "Serenity Wellness Growers, LLC",
+    "type": "cultivator"
+  },
+  {
+    "DBA": "Silver Sage Wellness",
+    "Loc City": "Las Vegas",
+    "ME Entity Name": "Silver Sage Wellness LLC",
+    "type": "cultivator"
+  },
+  {
+    "DBA": "Silver State Cultivation",
+    "Loc City": "Sparks",
+    "ME Entity Name": "Silver State Cultivation, LLC",
+    "type": "cultivator"
+  },
+  {
+    "DBA": "Silver State Wellness LLC",
+    "Loc City": "Las Vegas",
+    "ME Entity Name": "Silver State Wellness LLC",
+    "type": "cultivator"
+  },
+  {
+    "DBA": "Southern Nevada Growers Inc",
+    "Loc City": "Las Vegas",
+    "ME Entity Name": "Southern Nevada Growers Inc.",
+    "type": "cultivator"
+  },
+  {
+    "DBA": "W Vapes",
+    "Loc City": "Las Vegas",
+    "ME Entity Name": "Sweet Goldy LLC",
+    "type": "cultivator"
+  },
+  {
+    "DBA": "Tahoe Hydroponics Company LLC",
+    "Loc City": "Carson City",
+    "ME Entity Name": "Tahoe Hydroponics Company LLC.",
+    "type": "cultivator"
+  },
+  {
+    "DBA": "Kynd Cannabis Company",
+    "Loc City": "Sparks",
+    "ME Entity Name": "Tahoe-Reno Botanicals, LLC",
+    "type": "cultivator"
+  },
+  {
+    "DBA": "The Grove",
+    "Loc City": "Las Vegas",
+    "ME Entity Name": "TGIG, LLC",
+    "type": "cultivator"
+  },
+  {
+    "DBA": "FloraVega & Welleaf",
+    "Loc City": "North Las Vegas",
+    "ME Entity Name": "THC Nevada LLC",
+    "type": "cultivator"
+  },
+  {
+    "DBA": "The Clinic",
+    "Loc City": "Las Vegas",
+    "ME Entity Name": "The Clinic Nevada LLC",
+    "type": "cultivator"
+  },
+  {
+    "DBA": "The Harvest Foundation LLC",
+    "Loc City": "Las Vegas",
+    "ME Entity Name": "The Harvest Foundation LLC",
+    "type": "cultivator"
+  },
+  {
+    "DBA": "TapRoot Farms",
+    "Loc City": "North Las Vegas",
+    "ME Entity Name": "TRNVC151 LLC",
+    "type": "cultivator"
+  },
+  {
+    "DBA": "Reef Dispensaries",
+    "Loc City": "Las Vegas",
+    "ME Entity Name": "Tryke Companies SO NV, LLC",
+    "type": "cultivator"
+  },
+  {
+    "DBA": "Cannera",
+    "Loc City": "North Las Vegas",
+    "ME Entity Name": "V6E Holdings, Inc",
+    "type": "cultivator"
+  },
+  {
+    "DBA": "Vegas Valley Growers LLC",
+    "Loc City": "Las Vegas",
+    "ME Entity Name": "Vegas Valley Growers LLC",
+    "type": "cultivator"
+  },
+  {
+    "DBA": "Vegas Valley Growers North",
+    "Loc City": "North Las Vegas",
+    "ME Entity Name": "Vegas Valley Growers North LLC",
+    "type": "cultivator"
+  },
+  {
+    "DBA": "Waveseer of Las Vegas",
+    "Loc City": "North Las Vegas",
+    "ME Entity Name": "Waveseer of Las Vegas LLC",
+    "type": "cultivator"
+  },
+  {
+    "DBA": "Las Vegas Cannabis",
+    "Loc City": "Las Vegas",
+    "ME Entity Name": "Wellness & Caregivers of Nevada II LLC",
+    "type": "cultivator"
+  },
+  {
+    "DBA": "Las Vegas Cannabis",
+    "Loc City": "North Las Vegas",
+    "ME Entity Name": "Wellness & Caregivers of Nevada NLV LLC",
+    "type": "cultivator"
+  },
+  {
+    "DBA": "Wellness Orchards of Nevada LLC",
+    "Loc City": "Pahrump",
+    "ME Entity Name": "WELLNESS ORCHARDS OF NEVADA LLC",
+    "type": "cultivator"
+  },
+  {
+    "DBA": "Las Vegas Herbal Growers",
+    "Loc City": "Las Vegas",
+    "ME Entity Name": "Wenger LLC",
+    "type": "cultivator"
+  },
+  {
+    "DBA": "Sierra Wellness",
+    "Loc City": "Carson City",
+    "ME Entity Name": "WSCC, Inc.",
+    "type": "cultivator"
+  },
+  {
+    "DBA": "YMY Ventures",
+    "Loc City": "North Las Vegas",
+    "ME Entity Name": "YMY Ventures LLC",
+    "type": "cultivator"
+  },
+  {
+    "DBA": "Zion Gardens",
+    "Loc City": "North Las Vegas",
+    "ME Entity Name": "Zion Gardens LLC",
+    "type": "cultivator"
+  },
+  {
+    "DBA": "Evergreen Edibles",
+    "Loc City": "Las Vegas",
+    "ME Entity Name": "3480 Hacienda Partners LLC",
+    "type": "producer"
+  },
+  {
+    "DBA": "Kanna",
+    "Loc City": "Carson City",
+    "ME Entity Name": "5Seat Investments LLC",
+    "type": "producer"
+  },
+  {
+    "DBA": "Acres Medical LLC",
+    "Loc City": "Las Vegas",
+    "ME Entity Name": "Acres Medical, LLc",
+    "type": "producer"
+  },
+  {
+    "DBA": "Alternative Medicine Association LC",
+    "Loc City": "Las Vegas",
+    "ME Entity Name": "Alternative Medicine Association LC",
+    "type": "producer"
+  },
+  {
+    "DBA": "Blossum Group LLC",
+    "Loc City": "Las Vegas",
+    "ME Entity Name": "Blossum Group LLC",
+    "type": "producer"
+  },
+  {
+    "DBA": "Cannavative Extracts LLC",
+    "Loc City": "Reno",
+    "ME Entity Name": "Cannavative Extracts, LLC",
+    "type": "producer"
+  },
+  {
+    "DBA": "CC Agency Solutions",
+    "Loc City": "Carson City",
+    "ME Entity Name": "Carson City Agency Solutions, LLC",
+    "type": "producer"
+  },
+  {
+    "DBA": "CCLV Manufacturing Center LLC",
+    "Loc City": "Las Vegas",
+    "ME Entity Name": "CCLV Manufacturing Center LLC",
+    "type": "producer"
+  },
+  {
+    "DBA": "Circle S Farms LLC",
+    "Loc City": "North Las Vegas",
+    "ME Entity Name": "Circle S Farms LLC",
+    "type": "producer"
+  },
+  {
+    "DBA": "Nevada Medical Marijuana",
+    "Loc City": "Laughlin",
+    "ME Entity Name": "Clear River LLC",
+    "type": "producer"
+  },
+  {
+    "DBA": "Canopi",
+    "Loc City": "Las Vegas",
+    "ME Entity Name": "CWNevada, LLC",
+    "type": "producer"
+  },
+  {
+    "DBA": "Canopi",
+    "Loc City": "Pahrump",
+    "ME Entity Name": "CWNevada, LLC",
+    "type": "producer"
+  },
+  {
+    "DBA": "DH Aldebaran",
+    "Loc City": "Las Vegas",
+    "ME Entity Name": "D.H. Aldebaran, Inc.",
+    "type": "producer"
+  },
+  {
+    "DBA": "Deep Roots Harvest",
+    "Loc City": "Mesquite",
+    "ME Entity Name": "Deep Roots Medical, LLC",
+    "type": "producer"
+  },
+  {
+    "DBA": "ECONEVADA LLC",
+    "Loc City": "North Las Vegas",
+    "ME Entity Name": "Econevada LLC",
+    "type": "producer"
+  },
+  {
+    "DBA": "SUMMA CANNABIS",
+    "Loc City": "Las Vegas",
+    "ME Entity Name": "Euphoria Wellness LLC",
+    "type": "producer"
+  },
+  {
+    "DBA": "Green Box",
+    "Loc City": "North Las Vegas",
+    "ME Entity Name": "Fidelis Holdings Henderson LLC",
+    "type": "producer"
+  },
+  {
+    "DBA": "Franklin BioScience NV LLC",
+    "Loc City": "North Las Vegas",
+    "ME Entity Name": "Franklin BioScience NV LLC",
+    "type": "producer"
+  },
+  {
+    "DBA": "Green Harvest",
+    "Loc City": "North Las Vegas",
+    "ME Entity Name": "FSWFL LLC",
+    "type": "producer"
+  },
+  {
+    "DBA": "Good Chemistry",
+    "Loc City": "Reno",
+    "ME Entity Name": "Good Chemistry Nevada LLC",
+    "type": "producer"
+  },
+  {
+    "DBA": "The Apothecarium",
+    "Loc City": "Las Vegas",
+    "ME Entity Name": "Gravitas Nevada LTD",
+    "type": "producer"
+  },
+  {
+    "DBA": "Green Cross Nevada",
+    "Loc City": "North Las Vegas",
+    "ME Entity Name": "Green Cross Nevada LLC",
+    "type": "producer"
+  },
+  {
+    "DBA": "Green Leaf Farms Holdings LLC",
+    "Loc City": "North Las Vegas",
+    "ME Entity Name": "Green Leaf Farms Holdings LLC",
+    "type": "producer"
+  },
+  {
+    "DBA": "Green Therapeutics LLC",
+    "Loc City": "Las Vegas",
+    "ME Entity Name": "Green Therapeutics LLC",
+    "type": "producer"
+  },
+  {
+    "DBA": "Greenleaf Production Inc",
+    "Loc City": "Sparks",
+    "ME Entity Name": "Greenleaf Production, Inc.",
+    "type": "producer"
+  },
+  {
+    "DBA": "GreenMart of Nevada NLV LLC",
+    "Loc City": "North Las Vegas",
+    "ME Entity Name": "GreenMart of Nevada NLV LLC",
+    "type": "producer"
+  },
+  {
+    "DBA": "Hope",
+    "Loc City": "North Las Vegas",
+    "ME Entity Name": "Healthcare Options for Patients Enterprises LLC",
+    "type": "producer"
+  },
+  {
+    "DBA": "High Sierra Holistics",
+    "Loc City": "Reno",
+    "ME Entity Name": "High Sierra Holistics, LLC",
+    "type": "producer"
+  },
+  {
+    "DBA": "Integral Associates LLC",
+    "Loc City": "Las Vegas",
+    "ME Entity Name": "Integral Associates LLC",
+    "type": "producer"
+  },
+  {
+    "DBA": "Panacea Cannabis",
+    "Loc City": "Las Vegas",
+    "ME Entity Name": "Just Quality LLC",
+    "type": "producer"
+  },
+  {
+    "DBA": "Pegasus Nevada",
+    "Loc City": "Las Vegas",
+    "ME Entity Name": "Las Vegas Wellness and Compassion, LLC",
+    "type": "producer"
+  },
+  {
+    "DBA": "Libra Wellness",
+    "Loc City": "North Las Vegas",
+    "ME Entity Name": "Libra Wellness Center LLC",
+    "type": "producer"
+  },
+  {
+    "DBA": "Siena Cannabis",
+    "Loc City": "North Las Vegas",
+    "ME Entity Name": "Lone Mountain Partners, LLC",
+    "type": "producer"
+  },
+  {
+    "DBA": "LVOP Holdings, LLC",
+    "Loc City": "North Las Vegas",
+    "ME Entity Name": "LVOP Holdings, LLC",
+    "type": "producer"
+  },
+  {
+    "DBA": "Matrix NV LLC",
+    "Loc City": "North Las Vegas",
+    "ME Entity Name": "Matrix NV, LLC",
+    "type": "producer"
+  },
+  {
+    "DBA": "MM Development Company LLC",
+    "Loc City": "Las Vegas",
+    "ME Entity Name": "MM Development Company LLC",
+    "type": "producer"
+  },
+  {
+    "DBA": "NCMM LLC",
+    "Loc City": "Pahrump",
+    "ME Entity Name": "NCMM, LLC",
+    "type": "producer"
+  },
+  {
+    "DBA": "Nevada Botanical Science Inc",
+    "Loc City": "Reno",
+    "ME Entity Name": "Nevada Botanical Science, Inc",
+    "type": "producer"
+  },
+  {
+    "DBA": "Nevada Group Wellness LLC",
+    "Loc City": "North Las Vegas",
+    "ME Entity Name": "Nevada Group Wellness LLC",
+    "type": "producer"
+  },
+  {
+    "DBA": "BAM - Body and Mind",
+    "Loc City": "Las Vegas",
+    "ME Entity Name": "Nevada Medical Group LLC",
+    "type": "producer"
+  },
+  {
+    "DBA": "Nevada Organic Remedies LLC",
+    "Loc City": "Las Vegas",
+    "ME Entity Name": "Nevada Organic Remedies LLC",
+    "type": "producer"
+  },
+  {
+    "DBA": "Shango Las Vegas",
+    "Loc City": "Las Vegas",
+    "ME Entity Name": "Nevada Pure LLC",
+    "type": "producer"
+  },
+  {
+    "DBA": "Grassroots",
+    "Loc City": "Sparks",
+    "ME Entity Name": "NevWa LLC",
+    "type": "producer"
+  },
+  {
+    "DBA": "NLVO",
+    "Loc City": "North Las Vegas",
+    "ME Entity Name": "NLV Organics Inc",
+    "type": "producer"
+  },
+  {
+    "DBA": "Silver State Trading",
+    "Loc City": "Sparks",
+    "ME Entity Name": "NNV Operations I, Inc.",
+    "type": "producer"
+  },
+  {
+    "DBA": "Nye Natural Medicinal Solutions LLC",
+    "Loc City": "Pahrump",
+    "ME Entity Name": "Nye Natural Medicinal Solutions LLC",
+    "type": "producer"
+  },
+  {
+    "DBA": "POLARIS MMJ",
+    "Loc City": "Las Vegas",
+    "ME Entity Name": "Polaris Wellness Center LLC",
+    "type": "producer"
+  },
+  {
+    "DBA": "Pure Tonic Concentrates LLC",
+    "Loc City": "Reno",
+    "ME Entity Name": "Pure Tonic Concentrates, LLC",
+    "type": "producer"
+  },
+  {
+    "DBA": "QualCan LLC",
+    "Loc City": "Las Vegas",
+    "ME Entity Name": "Qualcan, LLC",
+    "type": "producer"
+  },
+  {
+    "DBA": "Serenity Wellness Products LLC",
+    "Loc City": "North Las Vegas",
+    "ME Entity Name": "Serenity Wellness Products, LLC",
+    "type": "producer"
+  },
+  {
+    "DBA": "Silver Sage Wellness",
+    "Loc City": "Las Vegas",
+    "ME Entity Name": "Silver Sage Wellness LLC",
+    "type": "producer"
+  },
+  {
+    "DBA": "Silver State Cultivation",
+    "Loc City": "Sparks",
+    "ME Entity Name": "Silver State Cultivation, LLC",
+    "type": "producer"
+  },
+  {
+    "DBA": "Silver State Wellness LLC",
+    "Loc City": "Las Vegas",
+    "ME Entity Name": "Silver State Wellness LLC",
+    "type": "producer"
+  },
+  {
+    "DBA": "Kynd Cannabis Company",
+    "Loc City": "Sparks",
+    "ME Entity Name": "Tahoe-Reno Extractions LLC",
+    "type": "producer"
+  },
+  {
+    "DBA": "The Grove",
+    "Loc City": "Las Vegas",
+    "ME Entity Name": "TGIG, LLC",
+    "type": "producer"
+  },
+  {
+    "DBA": "Experience Premium Cannabis",
+    "Loc City": "North Las Vegas",
+    "ME Entity Name": "THC Productions, LLC",
+    "type": "producer"
+  },
+  {
+    "DBA": "The Clinic Nevada LLC",
+    "Loc City": "Las Vegas",
+    "ME Entity Name": "The Clinic Nevada LLC",
+    "type": "producer"
+  },
+  {
+    "DBA": "TapRoot Labs",
+    "Loc City": "North Las Vegas",
+    "ME Entity Name": "TRNVP098 LLC",
+    "type": "producer"
+  },
+  {
+    "DBA": "Reef Dispensaries",
+    "Loc City": "Las Vegas",
+    "ME Entity Name": "Tryke Companies SO NV, LLC",
+    "type": "producer"
+  },
+  {
+    "DBA": "Vegas Valley Growers LLC",
+    "Loc City": "Las Vegas",
+    "ME Entity Name": "Vegas Valley Growers LLC",
+    "type": "producer"
+  },
+  {
+    "DBA": "Vegas Valley Growers North",
+    "Loc City": "North Las Vegas",
+    "ME Entity Name": "Vegas Valley Growers North LLC",
+    "type": "producer"
+  },
+  {
+    "DBA": "Waveseer of Las Vegas",
+    "Loc City": "North Las Vegas",
+    "ME Entity Name": "Waveseer of Las Vegas LLC",
+    "type": "producer"
+  },
+  {
+    "DBA": "Las Vegas Cannabis",
+    "Loc City": "North Las Vegas",
+    "ME Entity Name": "Wellness & Caregivers of Nevada NLV LLC",
+    "type": "producer"
+  },
+  {
+    "DBA": "Sierra Wellness",
+    "Loc City": "Carson City",
+    "ME Entity Name": "WSCC, Inc.",
+    "type": "producer"
+  },
+  {
+    "DBA": "YMY Ventures",
+    "Loc City": "North Las Vegas",
+    "ME Entity Name": "YMY Ventures LLC",
+    "type": "producer"
+  },
+  {
+    "DBA": "Nature's Chemistry",
+    "Loc City": "Las Vegas",
+    "ME Entity Name": "3AP Inc",
+    "type": "distributor"
+  },
+  {
+    "DBA": "CC Agency Solutions",
+    "Loc City": "Carson City",
+    "ME Entity Name": "Carson City Agency Solutions LLC",
+    "type": "distributor"
+  },
+  {
+    "DBA": "Circel S Farms LLC",
+    "Loc City": "North Las Vegas",
+    "ME Entity Name": "Circle S Farms LLC",
+    "type": "distributor"
+  },
+  {
+    "DBA": "Canopi",
+    "Loc City": "Pahrump",
+    "ME Entity Name": "CWNevada, LLC",
+    "type": "distributor"
+  },
+  {
+    "DBA": "Canopi",
+    "Loc City": "Las Vegas",
+    "ME Entity Name": "CWNevada, LLC",
+    "type": "distributor"
+  },
+  {
+    "DBA": "DH Aldebaran",
+    "Loc City": "Las Vegas",
+    "ME Entity Name": "DH Aldebaran",
+    "type": "distributor"
+  },
+  {
+    "DBA": "Greenleaf Enterprises, Inc.",
+    "Loc City": "Sparks",
+    "ME Entity Name": "Greenleaf Enterprises, Inc.",
+    "type": "distributor"
+  },
+  {
+    "DBA": "Desert Grown Farms",
+    "Loc City": "Las Vegas",
+    "ME Entity Name": "Integral Associates LLC",
+    "type": "distributor"
+  },
+  {
+    "DBA": "The Dispensary NV",
+    "Loc City": "Las Vegas",
+    "ME Entity Name": "LivFree Wellness LLC",
+    "type": "distributor"
+  },
+  {
+    "DBA": "Siena Cannabis",
+    "Loc City": "North Las Vegas",
+    "ME Entity Name": "Lone Mountain Partners, LLC",
+    "type": "distributor"
+  },
+  {
+    "DBA": "Matrix NV LLC",
+    "Loc City": "North Las Vegas",
+    "ME Entity Name": "Matrix NV, LLC",
+    "type": "distributor"
+  },
+  {
+    "DBA": "MBNV Investments LLC",
+    "Loc City": "North Las Vegas",
+    "ME Entity Name": "MBNV Investments LLC",
+    "type": "distributor"
+  },
+  {
+    "DBA": "Nevada Organic Remedies LLC",
+    "Loc City": "Las Vegas",
+    "ME Entity Name": "Nevada Organic Remedies LLC",
+    "type": "distributor"
+  },
+  {
+    "DBA": "Nye Natural Medicinal Solutions LLC",
+    "Loc City": "Pahrump",
+    "ME Entity Name": "Nye Natural Medicinal Solutions LLC",
+    "type": "distributor"
+  },
+  {
+    "DBA": "Redwood Warehouse LLC",
+    "Loc City": "Las Vegas",
+    "ME Entity Name": "Redwood Warehouse LLC",
+    "type": "distributor"
+  },
+  {
+    "DBA": "Serenity Wellness Products, LLC",
+    "Loc City": "North Las Vegas",
+    "ME Entity Name": "Serenity Wellness Products, LLC",
+    "type": "distributor"
+  },
+  {
+    "DBA": "Southern Nevada Growers Inc.",
+    "Loc City": "Las Vegas",
+    "ME Entity Name": "Southern Nevada Growers Inc.",
+    "type": "distributor"
+  },
+  {
+    "DBA": "Tahoe Hydroponics Company LLC",
+    "Loc City": "Carson City",
+    "ME Entity Name": "Tahoe Hydroponics Company LLC",
+    "type": "distributor"
+  },
+  {
+    "DBA": "Kynd Cannabis Company",
+    "Loc City": "Sparks",
+    "ME Entity Name": "Tahoe-Reno Extractions LLC",
+    "type": "distributor"
+  },
+  {
+    "DBA": "The Grove",
+    "Loc City": "Las Vegas",
+    "ME Entity Name": "TGIG, LLC",
+    "type": "distributor"
+  },
+  {
+    "DBA": "The Grove",
+    "Loc City": "Pahrump",
+    "ME Entity Name": "TGIG, LLC",
+    "type": "distributor"
+  },
+  {
+    "DBA": "Cannera",
+    "Loc City": "North Las Vegas",
+    "ME Entity Name": "V6E Holdings, Inc",
+    "type": "distributor"
+  },
+  {
+    "DBA": "Waveseer of Las Vegas",
+    "Loc City": "North Las Vegas",
+    "ME Entity Name": "Waveseer of Las Vegas LLC",
+    "type": "distributor"
+  },
+  {
+    "DBA": "Sierra Wellness",
+    "Loc City": "Carson City",
+    "ME Entity Name": "WSCC, Inc.",
+    "type": "distributor"
+  },
+  {
+    "DBA": "Kanna",
+    "Loc Addr": "5398 Sun Valley Blvd",
+    "Loc City": "Sun Valley",
+    "ME Entity Name": "5Seat Investments LLC",
+    "type": "dispensary"
+  },
+  {
+    "DBA": "Acres Medical LLC",
+    "Loc Addr": "2320 Western Ave.",
+    "Loc City": "Las Vegas",
+    "ME Entity Name": "Acres Medical, LLC",
+    "type": "dispensary"
+  },
+  {
+    "DBA": "Thrive Cannabis Marketplace",
+    "Loc Addr": "2755 W Cheyenne Avenue",
+    "Loc City": "North Las Vegas",
+    "ME Entity Name": "Cheyenne Medical LLC",
+    "type": "dispensary"
+  },
+  {
+    "DBA": "Canopi",
+    "Loc Addr": "1324 S 3rd Street",
+    "Loc City": "Las Vegas",
+    "ME Entity Name": "Clark NMSD LLC",
+    "type": "dispensary"
+  },
+  {
+    "DBA": "Canopi",
+    "Loc Addr": "2113 N. Las Vegas Boulevard",
+    "Loc City": "North Las Vegas",
+    "ME Entity Name": "Clark NMSD LLC",
+    "type": "dispensary"
+  },
+  {
+    "DBA": "Nevada Medical Marijuana",
+    "Loc Addr": "1975 S. Casino Drive",
+    "Loc City": "Laughlin",
+    "ME Entity Name": "Clear River LLC",
+    "type": "dispensary"
+  },
+  {
+    "DBA": "Nevada Medical Marijuana",
+    "Loc Addr": "3195 St. Rose Parkway Suite 212",
+    "Loc City": "Henderson",
+    "ME Entity Name": "Clear River LLC",
+    "type": "dispensary"
+  },
+  {
+    "DBA": "Thrive Cannabis Marketplace",
+    "Loc Addr": "1112 S Commerce Street",
+    "Loc City": "Las Vegas",
+    "ME Entity Name": "Commerce Park Medical LLC",
+    "type": "dispensary"
+  },
+  {
+    "DBA": "Canopi",
+    "Loc Addr": "6540 Blue Diamond Road",
+    "Loc City": "Las Vegas",
+    "ME Entity Name": "CWNevada, LLC",
+    "type": "dispensary"
+  },
+  {
+    "DBA": "The Apothecary Shoppe",
+    "Loc Addr": "4240 W. Flamingo Rd, #100",
+    "Loc City": "Las Vegas",
+    "ME Entity Name": "D.H. Flamingo, Inc.",
+    "type": "dispensary"
+  },
+  {
+    "DBA": "Deep Roots Harvest",
+    "Loc Addr": "195 Willis Carrier Canyon",
+    "Loc City": "Mesquite",
+    "ME Entity Name": "Deep Roots Medical, LLC",
+    "type": "dispensary"
+  },
+  {
+    "DBA": "Sahara Wellness",
+    "Loc Addr": "420 E. Sahara Ave #4632",
+    "Loc City": "Las Vegas",
+    "ME Entity Name": "Desert Aire Wellness, LLC",
+    "type": "dispensary"
+  },
+  {
+    "DBA": "Jardin",
+    "Loc Addr": "2900 E Desert Inn Road #102",
+    "Loc City": "Las Vegas",
+    "ME Entity Name": "DIV Holdings, LLC",
+    "type": "dispensary"
+  },
+  {
+    "DBA": "SUMMA CANNABIS",
+    "Loc Addr": "7780 South Jones Boulevard",
+    "Loc City": "Las Vegas",
+    "ME Entity Name": "Euphoria Wellness LLC",
+    "type": "dispensary"
+  },
+  {
+    "DBA": "Pisos",
+    "Loc Addr": "4110 S. Maryland Parkway",
+    "Loc City": "Las Vegas",
+    "ME Entity Name": "Fidelis Holdings LLC",
+    "type": "dispensary"
+  },
+  {
+    "DBA": "ShowGrow",
+    "Loc Addr": "4850 South Fort Apache Road Ste 100",
+    "Loc City": "Las Vegas",
+    "ME Entity Name": "GBS Nevada Partners LLC",
+    "type": "dispensary"
+  },
+  {
+    "DBA": "Top Notch Health Center",
+    "Loc Addr": "5630 Stephanie Street",
+    "Loc City": "Las Vegas",
+    "ME Entity Name": "Global Harmony LLC",
+    "type": "dispensary"
+  },
+  {
+    "DBA": "The Apothecarium",
+    "Loc Addr": "7885 W. Sahara #111-112",
+    "Loc City": "Las Vegas",
+    "ME Entity Name": "Gravitas Nevada LTD",
+    "type": "dispensary"
+  },
+  {
+    "DBA": "Greenleaf Wellness",
+    "Loc Addr": "1730 Glendale Avenue",
+    "Loc City": "Sparks",
+    "ME Entity Name": "Greenleaf Wellness, Inc.",
+    "type": "dispensary"
+  },
+  {
+    "DBA": "Rise Dispensaries",
+    "Loc Addr": "135 Clearview Dr",
+    "Loc City": "Carson City",
+    "ME Entity Name": "GTI Nevada, LLC",
+    "type": "dispensary"
+  },
+  {
+    "DBA": "Rise Dispensaries",
+    "Loc Addr": "9650 Pyramid Way",
+    "Loc City": "Sparks",
+    "ME Entity Name": "GTI Nevada, LLC",
+    "type": "dispensary"
+  },
+  {
+    "DBA": "The Source",
+    "Loc Addr": "9480 S. Eastern Avenue Suites #185 and #190",
+    "Loc City": "Henderson",
+    "ME Entity Name": "Henderson Organic Remedies LLC",
+    "type": "dispensary"
+  },
+  {
+    "DBA": "Essence",
+    "Loc Addr": "2307  S Las Vegas Blvd.",
+    "Loc City": "Las Vegas",
+    "ME Entity Name": "Integral Associates LLC",
+    "type": "dispensary"
+  },
+  {
+    "DBA": "Essence",
+    "Loc Addr": "5765 W. Tropicana Ave.",
+    "Loc City": "Spring Valley",
+    "ME Entity Name": "Integral Associates LLC",
+    "type": "dispensary"
+  },
+  {
+    "DBA": "Essence",
+    "Loc Addr": "4300 E. Sunset Road, Ste. A-2, A-3",
+    "Loc City": "Henderson",
+    "ME Entity Name": "Integral Associates II LLC",
+    "type": "dispensary"
+  },
+  {
+    "DBA": "Inyo Fine Cannabis Dispensary LLC",
+    "Loc Addr": "2520 S. Maryland Parkway #2",
+    "Loc City": "Las Vegas",
+    "ME Entity Name": "Inyo Fine Cannabis Dispensary, LLC",
+    "type": "dispensary"
+  },
+  {
+    "DBA": "Panacea Cannabis",
+    "Loc Addr": "4235 Arctic Spring Avenue",
+    "Loc City": "Las Vegas",
+    "ME Entity Name": "Just Quality LLC",
+    "type": "dispensary"
+  },
+  {
+    "DBA": "Mynt Cannabis Dispensary",
+    "Loc Addr": "132 E. 2nd Street",
+    "Loc City": "Reno",
+    "ME Entity Name": "Kynd-Strainz, LLC",
+    "type": "dispensary"
+  },
+  {
+    "DBA": "The Dispensary NV",
+    "Loc Addr": "5347 S. Decatur Blvd. Ste 100",
+    "Loc City": "Las Vegas",
+    "ME Entity Name": "LivFree Wellness LLC",
+    "type": "dispensary"
+  },
+  {
+    "DBA": "The Dispensary NV",
+    "Loc Addr": "100 West Plumb Lane",
+    "Loc City": "Reno",
+    "ME Entity Name": "LivFree Wellness LLC",
+    "type": "dispensary"
+  },
+  {
+    "DBA": "The Dispensary NV",
+    "Loc Addr": "50 N. Gibson Road",
+    "Loc City": "Henderson",
+    "ME Entity Name": "LivFree Wellness LLC",
+    "type": "dispensary"
+  },
+  {
+    "DBA": "CannaCopia",
+    "Loc Addr": "6332 S. Rainbow Boulevard, Suite 105",
+    "Loc City": "Las Vegas",
+    "ME Entity Name": "LVMC LLC",
+    "type": "dispensary"
+  },
+  {
+    "DBA": "Blum Reno",
+    "Loc Addr": "1085 S Virginia Street",
+    "Loc City": "Reno",
+    "ME Entity Name": "Medifarm I LLC",
+    "type": "dispensary"
+  },
+  {
+    "DBA": "Blum LV",
+    "Loc Addr": "1130 East Desert Inn",
+    "Loc City": "Las Vegas",
+    "ME Entity Name": "Medifarm LLC",
+    "type": "dispensary"
+  },
+  {
+    "DBA": "Blum LV",
+    "Loc Addr": "3650 S. Decatur Boulevard # 6 & 7",
+    "Loc City": "Las Vegas",
+    "ME Entity Name": "Medifarm LLC",
+    "type": "dispensary"
+  },
+  {
+    "DBA": "Blum LV",
+    "Loc Addr": "1921 Western Ave.",
+    "Loc City": "Las Vegas",
+    "ME Entity Name": "Medifarm LLC",
+    "type": "dispensary"
+  },
+  {
+    "DBA": "Medizin",
+    "Loc Addr": "4850 West Sunset Road",
+    "Loc City": "Las Vegas",
+    "ME Entity Name": "MM Development Company LLC",
+    "type": "dispensary"
+  },
+  {
+    "DBA": "Blackjack Collective",
+    "Loc Addr": "1860 Western Ave.",
+    "Loc City": "Las Vegas",
+    "ME Entity Name": "Naturex II",
+    "type": "dispensary"
+  },
+  {
+    "DBA": "Zen Leaf",
+    "Loc Addr": "9120 W. Post Road",
+    "Loc City": "Las Vegas",
+    "ME Entity Name": "Naturex LLC",
+    "type": "dispensary"
+  },
+  {
+    "DBA": "MMJ America",
+    "Loc Addr": "4660 S. Decatur Boulevard",
+    "Loc City": "Las Vegas",
+    "ME Entity Name": "Nevada Holistic Medicine LLC",
+    "type": "dispensary"
+  },
+  {
+    "DBA": "The Source",
+    "Loc Addr": "6877 W Sahara Ave Suites 8 & 9",
+    "Loc City": "Las Vegas",
+    "ME Entity Name": "Nevada Organic Remedies LLC",
+    "type": "dispensary"
+  },
+  {
+    "DBA": "Shango Las Vegas",
+    "Loc Addr": "4380 Boulder Highway",
+    "Loc City": "Las Vegas",
+    "ME Entity Name": "Nevada Pure LLC",
+    "type": "dispensary"
+  },
+  {
+    "DBA": "Nevada Wellness Center",
+    "Loc Addr": "3200 S. Valley View Blvd.",
+    "Loc City": "Las Vegas",
+    "ME Entity Name": "Nevada Wellness Center LLC",
+    "type": "dispensary"
+  },
+  {
+    "DBA": "New Amsterdam Naturals",
+    "Loc Addr": "823 S. 3rd Street",
+    "Loc City": "Las Vegas",
+    "ME Entity Name": "Nevada Wellness Project LLC",
+    "type": "dispensary"
+  },
+  {
+    "DBA": "Nuleaf",
+    "Loc Addr": "430 E. Twain Ave.",
+    "Loc City": "Las Vegas",
+    "ME Entity Name": "NuLeaf Clark Dispensary, LLC",
+    "type": "dispensary"
+  },
+  {
+    "DBA": "Nuleaf",
+    "Loc Addr": "877 Tahoe Blvd.",
+    "Loc City": "Incline Village",
+    "ME Entity Name": "NuLeaf Incline Dispensary",
+    "type": "dispensary"
+  },
+  {
+    "DBA": "Las Vegas Releaf",
+    "Loc Addr": "2242 Paradise Road",
+    "Loc City": "Las Vegas",
+    "ME Entity Name": "Paradise Wellness Center LLC",
+    "type": "dispensary"
+  },
+  {
+    "DBA": "Oasis Medical Cannabis",
+    "Loc Addr": "1800 Industrial Rd., Suite 102",
+    "Loc City": "Las Vegas",
+    "ME Entity Name": "Serenity Wellness Center",
+    "type": "dispensary"
+  },
+  {
+    "DBA": "Silver Sage Wellness",
+    "Loc Addr": "4626 W. Charleston Blvd.",
+    "Loc City": "Las Vegas",
+    "ME Entity Name": "Silver Sage Wellness LLC",
+    "type": "dispensary"
+  },
+  {
+    "DBA": "Silver State Relief",
+    "Loc Addr": "175 East Greg Street",
+    "Loc City": "Sparks",
+    "ME Entity Name": "Silver State Relief, LLC",
+    "type": "dispensary"
+  },
+  {
+    "DBA": "The Grove",
+    "Loc Addr": "4647 Swenson St.",
+    "Loc City": "Las Vegas",
+    "ME Entity Name": "TGIG, LLC",
+    "type": "dispensary"
+  },
+  {
+    "DBA": "The Grove",
+    "Loc Addr": "1541 E. Basin Ave.",
+    "Loc City": "Pahrump",
+    "ME Entity Name": "TGIG, LLC",
+    "type": "dispensary"
+  },
+  {
+    "DBA": "Clinic Nevada",
+    "Loc Addr": "4310 W. Flamingo Street",
+    "Loc City": "Las Vegas",
+    "ME Entity Name": "The Clinic Nevada LLC",
+    "type": "dispensary"
+  },
+  {
+    "DBA": "Reef Dispensaries",
+    "Loc Addr": "195 E Glendale Suite 3",
+    "Loc City": "Sparks",
+    "ME Entity Name": "Tryke Companies Reno, LLC",
+    "type": "dispensary"
+  },
+  {
+    "DBA": "Reef Dispensaries",
+    "Loc Addr": "5105 Sun Valley Blvd. Bldg. B",
+    "Loc City": "Sun Valley",
+    "ME Entity Name": "Tryke Companies Reno, LLC",
+    "type": "dispensary"
+  },
+  {
+    "DBA": "Reef Dispensaries",
+    "Loc Addr": "3400 Western Ave.",
+    "Loc City": "Las Vegas",
+    "ME Entity Name": "Tryke Companies SO NV, LLC",
+    "type": "dispensary"
+  },
+  {
+    "DBA": "Reef Dispensaries",
+    "Loc Addr": "1366 W. Cheyenne Ave. Suites 110-111",
+    "Loc City": "North Las Vegas",
+    "ME Entity Name": "Tryke Companies SO NV, LLC",
+    "type": "dispensary"
+  },
+  {
+    "DBA": "Jenny's Dispensary",
+    "Loc Addr": "5530 North Decatur",
+    "Loc City": "North Las Vegas",
+    "ME Entity Name": "Waveseer of Las Vegas LLC",
+    "type": "dispensary"
+  },
+  {
+    "DBA": "Jenny's Dispensary",
+    "Loc Addr": "10420 S. Eastern Avenue, Suite 100",
+    "Loc City": "Henderson",
+    "ME Entity Name": "Waveseer of Nevada LLC",
+    "type": "dispensary"
+  },
+  {
+    "DBA": "Sierra Wellness",
+    "Loc Addr": "2765 US Highway 50 E, Suite A",
+    "Loc City": "Carson City",
+    "ME Entity Name": "WSCC, Inc.",
+    "type": "dispensary"
+  },
+  {
+    "DBA": "Sierra Wellness",
+    "Loc Addr": "7720 Security Circle",
+    "Loc City": "Reno",
+    "ME Entity Name": "WSCC, Inc.",
+    "type": "dispensary"
+  },
+  {
+    "DBA": "374 Labs LLC",
+    "Loc City": "Sparks",
+    "ME Entity Name": "374 Labs, LLC",
+    "Notifications": "",
+    "type": "lab"
+  },
+  {
+    "DBA": "RSR Analytical Laboratories",
+    "Loc City": "Las Vegas",
+    "ME Entity Name": "Cannex Nevada LLC",
+    "Notifications": "",
+    "type": "lab"
+  },
+  {
+    "DBA": "Certified Ag Lab LLC",
+    "Loc City": "Sparks",
+    "ME Entity Name": "Certified Ag Lab, LLC",
+    "Notifications": "",
+    "type": "lab"
+  },
+  {
+    "DBA": "DB Labs",
+    "Loc City": "Las Vegas",
+    "ME Entity Name": "DB Labs LLC",
+    "Notifications": "",
+    "type": "lab"
+  },
+  {
+    "DBA": "Digipath Labs",
+    "Loc City": "Las Vegas",
+    "ME Entity Name": "Digipath Labs Inc",
+    "Notifications": "",
+    "type": "lab"
+  },
+  {
+    "DBA": "ACE Analytical Laboratory",
+    "Loc City": "Las Vegas",
+    "ME Entity Name": "ERP LLC",
+    "Notifications": "",
+    "type": "lab"
+  },
+  {
+    "DBA": "G3 Labs LLC",
+    "Loc City": "Las Vegas",
+    "ME Entity Name": "G3 Labs LLC",
+    "Notifications": "Suspended - cannot operate",
+    "type": "lab"
+  },
+  {
+    "DBA": "MM Lab",
+    "Loc City": "Las Vegas",
+    "ME Entity Name": "MM Lab",
+    "Notifications": "",
+    "type": "lab"
+  },
+  {
+    "DBA": "NV Cann Labs",
+    "Loc City": "Las Vegas",
+    "ME Entity Name": "NV Cann Labs LLC",
+    "Notifications": "",
+    "type": "lab"
+  }
+]
